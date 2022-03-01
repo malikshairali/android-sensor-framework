@@ -11,3 +11,7 @@ A simple android app that implements sensor framework and shows usage of followi
 - Gyroscope
 - Magnetometer
 - Barometer
+
+## References
+
+Read more: https://developer.android.com/guide/topics/sensors/sensors_overview
