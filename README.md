@@ -4,7 +4,7 @@ Android Sensor Framework Hands-on.
 
 ## Description
 
-A simple android app that implementats sensor framework and shows usage of following sensors: 
+A simple android app that implements sensor framework and shows usage of following sensors: 
 - Proximity
 - Light
 - Accelerometer
