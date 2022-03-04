@@ -14,6 +14,8 @@ A simple android app that implements Sensor Framework and shows usage of followi
 
 In addition to the Sensor Framework, this sample also demonstrates integration of Google AdMob, and Biometric Authentication. 
 
+**Note:** The sample code does not follow any design/architectural pattern. One activity contains all the code (i'm sorry for that). Please refer to other repos to see implentation of **MVVM** pattern. 
+
 ## Demo
  <img src="https://github.com/malikshairali/android-sensors/blob/master/demo.gif" height="450" />
 
