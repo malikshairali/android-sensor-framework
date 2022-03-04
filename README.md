@@ -4,13 +4,15 @@ Android Sensor Framework Hands-on.
 
 ## Description
 
-A simple android app that implements sensor framework and shows usage of following sensors: 
+A simple android app that implements Sensor Framework and shows usage of following sensors: 
 - Proximity
 - Light
 - Accelerometer
 - Gyroscope
 - Magnetometer
 - Barometer
+
+In addition to the Sensor Framework, this sample also demonstrates integration of Google AdMob, and Biometric Authentication. 
 
 ## Demo
  <img src="https://github.com/malikshairali/android-sensors/blob/master/demo.gif" height="450" />
