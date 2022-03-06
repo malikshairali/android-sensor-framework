@@ -21,4 +21,6 @@ In addition to the Sensor Framework, this sample also demonstrates integration o
 
 ## References
 
-Read more: https://developer.android.com/guide/topics/sensors/sensors_overview
+* Sensor Framework: https://developer.android.com/guide/topics/sensors/sensors_overview
+* Google AdMob: https://developers.google.com/admob/android/quick-start
+* Biometric Authentication: https://github.com/malikshairali/android-biometric
