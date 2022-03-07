@@ -61,7 +61,7 @@ class MainActivity : AppCompatActivity() {
                             errString.toString()
                         }
                         BiometricPrompt.ERROR_NEGATIVE_BUTTON -> {
-                            "Authenticate via password has yet to implement"
+                            getString(R.string.biometric_error_negative_button)
                         }
                         else -> {
                             errString.toString()
@@ -83,10 +83,10 @@ class MainActivity : AppCompatActivity() {
             })
 
         promptInfo = BiometricPrompt.PromptInfo.Builder()
-            .setTitle("Biometric login for my app")
-            .setSubtitle("Log in using your biometric credential")
+            .setTitle(getString(R.string.biometric_prompt_title))
+            .setSubtitle(getString(R.string.biometric_prompt_subtitle))
             .setAllowedAuthenticators(BiometricManager.Authenticators.BIOMETRIC_STRONG)
-            .setNegativeButtonText("Use account password")
+            .setNegativeButtonText(getString(R.string.biometric_negative_button_text))
             .build()
 
         biometricPrompt.authenticate(promptInfo)

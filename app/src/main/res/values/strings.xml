@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Sensors Hands-on</string>
+    <string name="avaiable_sensors_label">Avaiable Sensors</string>
+    <string name="proximity">Proximity</string>
+    <string name="light">Light</string>
+    <string name="accelerometer">Accelerometer</string>
+    <string name="gyroscope">Gyroscope</string>
+    <string name="magnetometer">Magnetometer</string>
+    <string name="barometer">Barometer</string>
+    <string name="all_sensors_list">All Sensors List</string>
+    <string name="biometric_error_negative_button">Authenticate via password has yet to implement</string>
+    <string name="biometric_prompt_title">Biometric login for my app</string>
+    <string name="biometric_prompt_subtitle">Log in using your biometric credential</string>
+    <string name="biometric_negative_button_text">Use account password</string>
 </resources>
