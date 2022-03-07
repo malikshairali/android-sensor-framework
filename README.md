@@ -12,7 +12,7 @@ A simple android app that implements Sensor Framework and shows usage of followi
 - Magnetometer
 - Barometer
 
-In addition to the Sensor Framework, this sample also demonstrates integration of Google AdMob (Banner, Interstitial, and Rewarded Ads) and Biometric Authentication. 
+In addition to the Sensor Framework, this sample also demonstrates integration of Google AdMob (Banner, Interstitial, and Rewarded Ads) and Biometric Authentication. Added string localization to provide bilingual support (currently English, Urdu, and Farsi). 
 
 **Note:** The sample code does not follow any design/architectural pattern. One activity contains all the code (i'm sorry for that). Please refer to other repos to see implentation of **MVVM** pattern. 
 
